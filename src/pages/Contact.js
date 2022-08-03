@@ -4,6 +4,7 @@ export function Contact() {
     return(
         <div>
             <Navigation/>
+            <p>Contact</p>
         </div>
     )
 }
